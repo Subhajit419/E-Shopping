@@ -36,7 +36,7 @@ const CheckoutForm = ({
           fullWidth
           id="first-name"
           name="lastName"
-          label="First Name"
+          label="Last Name"
           value={user.lastName}
           onChange={handleChange}
         />
