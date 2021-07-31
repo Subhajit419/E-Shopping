@@ -60,7 +60,7 @@ const CheckoutForm = ({
           id="address"
           name="address"
           value={user.address}
-          label="Address line 1"
+          label="Address"
           onChange={handleChange}
         />
       </Grid>
